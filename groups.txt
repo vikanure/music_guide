@@ -1,0 +1,7 @@
+1;Kiss
+2;AC/DC
+3;Metallica
+4;Scorpions
+7;Survivor 
+8;Skillet
+9;Rammstein
